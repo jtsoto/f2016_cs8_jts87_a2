@@ -1,0 +1,6 @@
+Beyond defining the functions to run the program, I did not have any set mindset going
+into this assignment. After hours upon ours in Sennott Square trying to figure this
+assignment out, my mindset changed to better understand the importance of loops and
+splitting values in a file. After acquiring the correct data from these files, I wanted
+to use formatting tools to put into my printKV function to provide the correct output for
+the user.
